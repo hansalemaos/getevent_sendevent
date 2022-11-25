@@ -56,7 +56,7 @@ It should also work with any rooted Android device, the only problem might be th
 [https://stackoverflow.com/a/73733261/15096247]()
 
 But changing the code (if necessary) shouldn't be a big thing. 
-Since my cell phone is not rooted, and I have no intention of rooting it, I cannot test it with an physical Android device. (I would be grateful for any feedback)
+Since my cell phone is not rooted, and I have no intention of rooting it, I cannot test it with a physical Android device. (I would be grateful for any feedback)
 
 Take a look at the video to see what the code below does:
 [![YT](https://github.com/hansalemaos/screenshots/raw/main/bluestacksauto.png)](https://www.youtube.com/watch?v=BNDtruH6frI)
