@@ -1,0 +1,10 @@
+flatten_everything
+flexible_partial
+keyboard
+more_itertools
+numpy
+pandas
+PrettyColorPrinter
+psutil
+regex
+touchtouch
