@@ -1,3 +1,5 @@
+# Use https://github.com/hansalemaos/geteventplayback - no dependencies, faster and better results!  
+
 # Sending touch/swipe events to BlueStacks/Android sounds easy but actually it isn't 
 
 
